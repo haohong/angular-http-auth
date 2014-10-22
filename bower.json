@@ -1,0 +1,10 @@
+{
+  "name": "angular-http-auth",
+  "version": "0.0.1",
+  "homepage": "https://github.com/haohong/angular-http-auth",
+  "authors": [
+    "Haohong Xu <weidai1122@gmail.com>"
+  ],
+  "description": "Sets http header for basic auth",
+  "main": "src/angular-http-auth.js"
+}
